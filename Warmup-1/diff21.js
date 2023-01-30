@@ -10,7 +10,7 @@ diff21(21) → 0
 */
 
 function diff21(n) {
-  return n > 21 ? Math.abs((n - 21) * 2) : 21 - n;
+  return n > 21 ? (n - 21) * 2 : 21 - n;
 }
 
 console.log(diff21(19));
