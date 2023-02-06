@@ -77,3 +77,51 @@
       </td>
    </tr>
 </table>
+
+## String-1
+
+<table>
+   <tr>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/helloName.js" target="_blank">helloName</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/makeAbba.js" target="_blank">makeAbba</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/makeTags.js" target="_blank">makeTags</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/makeOutWord.js" target="_blank">makeOutWord</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/extraEnd.js" target="_blank">extraEnd</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/firstTwo.js" target="_blank">firstTwo</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/firstHalf.js" target="_blank">firstHalf</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/withoutEnd.js" target="_blank">withoutEnd</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/comboString.js" target="_blank">comboString</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/nonStart.js" target="_blank">nonStart</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/left2.js" target="_blank">left2</a> ✓ <br>
+      </td>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/right2.js" target="_blank">right2</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/theEnd.js" target="_blank">theEnd</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/withoutEnd2.js" target="_blank">withoutEnd2</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/middleTwo.js" target="_blank">middleTwo</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/endsLy.js" target="_blank">endsLy</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/nTwice.js" target="_blank">nTwice</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/twoChar.js" target="_blank">twoChar</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/middleThree.js" target="_blank">middleThree</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/hasBad.js" target="_blank">hasBad</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/atFirst.js" target="_blank">atFirst</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/lastChars.js" target="_blank">lastChars</a> ✓ <br>
+      </td>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/conCat.js" target="_blank">conCat</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/lastTwo.js" target="_blank">lastTwo</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/seeColor.js" target="_blank">seeColor</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/frontAgain.js" target="_blank">frontAgain</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/minCat.js" target="_blank">minCat</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/extraFront.js" target="_blank">extraFront</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/without2.js" target="_blank">without2</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/deFront.js" target="_blank">deFront</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/startWord.js" target="_blank">startWord</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/withoutX.js" target="_blank">withoutX</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/withoutX2.js" target="_blank">withoutX2</a> ✓ <br>
+         <br>
+         <br>
+      </td>
+   </tr>
+</table>
