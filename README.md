@@ -73,7 +73,6 @@
          <a href="https://github.com/s8ndev/codingjs/blob/main/Warmup-2/noTriples.js" target="_blank">noTriples</a> ✓ <br>
          <a href="https://github.com/s8ndev/codingjs/blob/main/Warmup-2/has271.js" target="_blank">has271</a> ✓ <br>
          <br>
-         <br>
       </td>
    </tr>
 </table>
@@ -120,8 +119,6 @@
          <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/startWord.js" target="_blank">startWord</a> ✓ <br>
          <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/withoutX.js" target="_blank">withoutX</a> ✓ <br>
          <a href="https://github.com/s8ndev/codingjs/blob/main/String-1/withoutX2.js" target="_blank">withoutX2</a> ✓ <br>
-         <br>
-         <br>
       </td>
    </tr>
 </table>
