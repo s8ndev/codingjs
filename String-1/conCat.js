@@ -14,3 +14,7 @@ conCat('abc', '') → abc
 function conCat(a, b) {
   return a[a.length - 1] === b[0] ? a + b.slice(1) : a + b;
 }
+
+console.log(conCat("abc", "cat"));
+console.log(conCat("dog", "cat"));
+console.log(conCat("abc", ""));
