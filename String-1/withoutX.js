@@ -16,3 +16,7 @@ function withoutX(str) {
   if (str[str.length - 1] === "x") return str.slice(0, str.length - 1);
   return str;
 }
+
+console.log(withoutX("xHix"));
+console.log(withoutX("xHi"));
+console.log(withoutX("Hxix"));
