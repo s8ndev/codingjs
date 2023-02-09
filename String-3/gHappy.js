@@ -24,3 +24,7 @@ function gHappy(str) {
   }
   return happy;
 }
+
+console.log(gHappy("xxggxx"));
+console.log(gHappy("xxgxx"));
+console.log(gHappy("xxggyygxx"));
