@@ -122,3 +122,62 @@
       </td>
    </tr>
 </table>
+
+## String-2
+
+<table>
+   <tr>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/doubleChar.js" target="_blank">doubleChar</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/countHi.js" target="_blank">countHi</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/catDog.js" target="_blank">catDog</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/countCode.js" target="_blank">countCode</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/endOther.js" target="_blank">endOther</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/xyzThere.js" target="_blank">xyzThere</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/bobThere.js" target="_blank">bobThere</a> ✓ <br>
+      </td>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/xyBalance.js" target="_blank">xyBalance</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/mixString.js" target="_blank">mixString</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/repeatEnd.js" target="_blank">repeatEnd</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/repeatFront.js" target="_blank">repeatFront</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/repeatSeparator.js" target="_blank">repeatSeparator</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/prefixAgain.js" target="_blank">prefixAgain</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/xyzMiddle.js" target="_blank">xyzMiddle</a> ✓ <br>
+      </td>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/getSandwich.js" target="_blank">getSandwich</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/sameStarChar.js" target="_blank">sameStarChar</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/oneTwo.js" target="_blank">oneTwo</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/zipZap.js" target="_blank">zipZap</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/starOut.js" target="_blank">starOut</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/plusOut.js" target="_blank">plusOut</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-2/wordEnds.js" target="_blank">wordEnds</a> ✓ <br>
+      </td>
+   </tr>
+</table>
+
+## String-3
+
+<table>
+   <tr>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/countYZ.js" target="_blank">countYZ</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/withoutString.js" target="_blank">withoutString</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/equalIsNot.js" target="_blank">equalIsNot</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/gHappy.js" target="_blank">gHappy</a> ✓ <br>
+      </td>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/countTriple.js" target="_blank">countTriple</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/sumDigits.js" target="_blank">sumDigits</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/sameEnds.js" target="_blank">sameEnds</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/mirrorEnds.js" target="_blank">mirrorEnds</a> ✓ <br>
+      </td>
+      <td>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/maxBlock.js" target="_blank">maxBlock</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/sumNumbers.js" target="_blank">sumNumbers</a> ✓ <br>
+         <a href="https://github.com/s8ndev/codingjs/blob/main/String-3/notReplace.js" target="_blank">notReplace</a> ✓ <br>
+         <br>
+      </td>
+   </tr>
+</table>
