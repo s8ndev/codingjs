@@ -14,6 +14,6 @@ function less20(n) {
   return !((n + 1) % 20) || !((n + 2) % 20);
 }
 
-console.log(18);
-console.log(19);
-console.log(20);
+console.log(less20(18));
+console.log(less20(19));
+console.log(less20(20));
